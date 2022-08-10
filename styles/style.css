@@ -1,3 +1,33 @@
 body{
     font-family: 'Montserrat', sans-serif;
+    
+}
+/* main_div */
+.main_div{
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: rgba(229, 229, 229, 1);
+    width: 1200px;
+    margin: 0 auto;
+}
+/* main_content */
+.main_content{
+    margin-left: px;
+    background-color: rgba(255, 255, 255, 1);
+}
+/* sidebar_main */
+.sidebar_main{
+background-color: rgba(30, 41, 57, 1);
+}
+/*Projects_styles*/
+.projects{
+  
+}
+/*projects_text*/
+.projects_h3{
+
+}
+/*about user*/
+.about_user{
+    
 }
