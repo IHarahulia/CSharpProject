@@ -18,16 +18,108 @@ body{
 /* sidebar_main */
 .sidebar_main{
 background-color: rgba(30, 41, 57, 1);
+padding-top: 40px;
+width: 370px;
 }
-/*Projects_styles*/
-.projects{
-  
-}
-/*projects_text*/
-.projects_h3{
 
+.sidebar-img{
+    width: 370px;
+    margin-bottom: 50px;
 }
-/*about user*/
-.about_user{
+/* Contacts */
+.contacts{
+    margin-left: 40px;
+    margin-bottom: 50px;
     
 }
+.sidebar-title{
+   
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #FFFFFF;
+    margin-bottom: 10px;
+    
+}
+
+/* C: E: */
+
+.Contact-type{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+color: #FFFFFF;
+margin-right: 5px;
+}
+
+
+
+/* +7 777 777 77 77 chornyiav@gmail.com */
+.telefon-email{
+    box-sizing: border-box;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    
+    
+    
+    color: #565E6A;
+    
+    opacity: 0.5;
+    border: 1px solid #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.tech-skills{
+    margin-left: 40px;
+}
+.tech-skills-title{
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #FFFFFF;
+    margin-bottom: 10px;
+    margin-right: 40px;
+}
+.skill-list-text{
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+}
+
+.tech-skills-list-ul{
+    padding-left: 15px;
+}
+
+/* • • • • • • • */
+.sidebare-li{
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+color: #FB6D3A;
+
+}
+
+.soft-skills{
+    margin-left: 40px;
+}
+.soft-skills-list{
+    padding-left: 15px;
+}
+
+
